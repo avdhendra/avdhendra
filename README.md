@@ -17,12 +17,12 @@
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-
+---
 
 
 
 <img align="left" alt="itzpradip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avdhendra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
-[facebook]: https://facebook.com/itzpradip
-[linkedin]: https://linkedin.com/in/itzpradip
+[facebook]: https://www.facebook.com/sarthakbhaduria/
+[linkedin]: https://www.linkedin.com/in/avdhendra-singh-6906791b1/
 
