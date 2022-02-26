@@ -10,7 +10,7 @@
 [<img align="left" alt="Avdhendra Singh | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Avdhendra Singh | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
 
-
+---
 
 **Languages and Tools:**
 
