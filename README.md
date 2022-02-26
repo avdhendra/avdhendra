@@ -34,7 +34,13 @@
 
 
 
-<img align="left" alt="itzpradip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avdhendra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=avdhendra&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=avdhendra&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhendra&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhendra&hide=php&theme=tokyonight" />
+</a>
 
 [facebook]: https://www.facebook.com/sarthakbhaduria/
 [linkedin]: https://www.linkedin.com/in/avdhendra-singh-6906791b1/
