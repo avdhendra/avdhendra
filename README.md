@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced concepts of React Native and Android
 - ⚡ Fun fact: I love to listen songs. 
 
-**Connect with me:**
+## **Connect with me:**
 
 
 [<img align="left" alt="Avdhendra Singh | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
@@ -16,7 +16,7 @@
 
 
 
-**Languages and Tools:**
+## **Languages and Tools:**
 
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
