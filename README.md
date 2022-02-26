@@ -41,6 +41,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhendra&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhendra&hide=php&theme=tokyonight" />
 </a>
+  </div>
 
 [facebook]: https://www.facebook.com/sarthakbhaduria/
 [linkedin]: https://www.linkedin.com/in/avdhendra-singh-6906791b1/
