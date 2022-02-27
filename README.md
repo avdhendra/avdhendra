@@ -1,4 +1,4 @@
-## Hi, I'm [Avdhendra Singh] 👋
+## Hi, I'm Avdhendra Singh 👋
 
 - 🔭 I’m currently developing a mobile app
 - 🌱 I’m currently learning advanced concepts of React Native and Android
