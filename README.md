@@ -1,8 +1,10 @@
 ## Hi, I'm Avdhendra Singh 👋
 
-- 🔭 I’m currently developing a mobile app
+- 🔭 I'm full stack web and App developer
 - 🌱 I’m currently learning advanced concepts of React Native and Android
-- ⚡ Fun fact: I love to listen songs. 
+- ⚡ Learning Microservices 
+-  😀Fun fact: I love to listen songs. 
+- 
 
 ## **Connect with me:**
 [<img align="left" alt="Avdhendra Singh | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
