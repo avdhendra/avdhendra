@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React,Nextjs,Nodejs,Android studio**
 
-- 📫 How to reach me **avdhendra**
+- 📫 How to reach me **avdhendrasingh3@gmail.com**
 
 - ⚡ Fun fact **I Dont Drink Coffee only tea**
 
