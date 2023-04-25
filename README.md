@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Microservices**
 
-- 👨‍💻 All of my projects are available at [https://avdhendra.netlify.app/](https://avdhendra.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://avdhendra-singh-d2da28.netlify.app/](https://avdhendra.netlify.app/)
 
 - 💬 Ask me about **React,Nextjs,Nodejs,Android studio**
 
