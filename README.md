@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avdhendra" alt="avdhendra" /></a> </p>
 
-- 🔭 I’m currently working on **Food Space**
 
-- 🌱 I’m currently learning **Blockchain and Microservices**
 
 - 👨‍💻 All of my projects are available at [https://avdhendra-singh-d2da28.netlify.app/](https://avdhendra.netlify.app/)
 
