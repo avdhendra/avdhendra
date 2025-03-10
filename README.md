@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://avdhendra-singh-d2da28.netlify.app/](https://avdhendra.netlify.app/)
 
-- 💬 Ask me about **React,Nextjs,Nodejs,Android studio**
+- 💬 Ask me about **React,Nextjs,Nodejs**
 
 - 📫 How to reach me **avdhendrasingh3@gmail.com**
 
