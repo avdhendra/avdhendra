@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **avdhendrasingh3@gmail.com**
 
-- ⚡ Fun fact **I Dont Drink Coffee only tea**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
